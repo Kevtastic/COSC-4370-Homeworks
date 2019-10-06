@@ -1,0 +1,1 @@
+Used CodeBlocks IDE and MinGW GCC.
